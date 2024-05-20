@@ -69,5 +69,22 @@ Dashboard
 
 ![Dashboard](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/5680d3e0-26a9-4a86-bbcd-c06ff36dbd88)
 
+### Results/ Findings
+Total income/withdrawal reported from 4th April 2024 to 5th May 2024: There was a total of ksh. 68,162 and an income of ksh. 69,157. The income amount is higher than the amount spent/withdrawn during the stated period. Therefore, a total of ksh. 995. 
+Expense categories based on how much was spent on each from 4th April 2024 to 5th May 2024: There were different categories of expenses and amount spent. This has been shown below in a table:
 
+![image](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/f7aa64aa-26d3-422e-bff6-64632da7cd27)
 
+Black tax: This is the amount of money sent to relatives
+Airtime expense: This is the amount of money spent on airtime
+Withdrawal expense: Amount withdrawn from m-pesa
+General expense: Amount of money spent on maintenance of owners' assets, paying bills (water, electricity, wages, among others), paying for debt or loan.
+Shopping: Amount spent on planned shopping (basically buying food)
+Impulse shopping: Amount spent on unplanned shopping. NB. It appears as shopping in the dashboard, as required by the client. 
+Transfer Charges: Amount deducted when sending money via m-pesa
+M-shwari: Amount deposited in M-shwari account. This is savings but the client wanted it to appear as part of the expenses for reasons known to her.
+
+cashflow based on the running totals from 4th April 2024 to 5th May 2024: There is a downward trend as shown by the trendline. This means that there is more money being withdrawn as compared to the amount earned. {NB. The amount earned was more than the amount spent as shown above (check objective 1) because there was some amount of money that was carried forward from the previous month.}
+The trend of withdrawal/income from 4th April 2024 to 5th May 2024: Based on the dashboard shown above, the line graph for withdrawal and income are running interchangeably. Sometimes withdrawal is higher than income and vice versa.
+
+### Recommendations

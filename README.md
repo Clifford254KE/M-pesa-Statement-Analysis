@@ -43,5 +43,31 @@ What was the cashflow based on the running totals from 4th April 2024 to 5th May
 What was the trend of withdrawal/income from 4th April 2024 to 5th May 2024?.
 
 ### Data Analysis
+Apart from using excel for data cleaning and preparation, it was also used for data analysis and visualization.
+Using pivot table, questions under exploratory data analysis (EDA) analyzed and visualized as follows:
+Question 1: What is the total income/withdrawal reported from 4th April 2024 to 5th May 2024?.
+
+![q11](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/6084735d-ec45-4440-b1b1-6efa716c15ff)
+![q12](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/b8919238-b32f-4bbd-a7bb-9e91df246a6b)
+
+Question 2: What are the expense categories based on how much was spent on each from 4th April 2024 to 5th May 2024?.
+
+![q31](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/a093aafc-25dd-4dbd-8d55-1615b4ead046)
+![q32](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/472b558f-f279-4d7d-934e-d9cc8f8e4f37)
+
+Question 3: What was the cashflow based on the running totals from 4th April 2024 to 5th May 2024?.
+
+![q41](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/98a1ac6f-0adf-4ae0-beaf-d6d673f8f9b3)
+![q42](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/5922ada0-aef8-464c-b8e3-b587e6e83185)
+
+Question 4: What was the trend of withdrawal/income from 4th April 2024 to 5th May 2024?.
+
+![q21](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/399d9f7a-e754-4ea8-8f4c-a8c0c36e9716)
+![q22](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/cb99fa75-c4b9-4091-ac45-b24e680ab6c2)
+
+Dashboard
+
+![Dashboard](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/5680d3e0-26a9-4a86-bbcd-c06ff36dbd88)
+
 
 

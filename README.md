@@ -10,5 +10,18 @@
 ### Data Sources
 Safaricom- The m-pesa statement obtained from Safaricom was provided as requested by the client. A data protection sheet was signed to ensure no personal information was leaked to the third party (posting this project here was permitted by the client under some restrictions/guidelines)
 
-### Tools Used 
- Excel
+### Tools Used
+Adobe Acrobat DC (offline)- PDF conversion
+Excel- Data cleaning, Data preparation, visualization and dashboard
+
+### Data Cleaning and Preparation
+Adobe Acrobat DC 
+Converting Data from PDF to Excel Workbook.
+
+Excel
+Removed duplicates and replaced missing values with 'zeros'.
+Transformed the 'date' column to contain only day, month, and year.
+Transformed the 'details column' by shortening the long texts through delimiter ( Data > text to column > Delimited).
+Changed withdrawal column from negative values to positive values (using a new column, use function MAX(Cell containing number, -(negative) cell containing number)).
+Another column was created to categories transactions under the 'detail' column to form different kinds of expenses and incomes: shopping, general expenses, black tax, withdrawal charges, transfer charges, airtime expense, general income, m-shwari withdrawal (Ctrl H).
+

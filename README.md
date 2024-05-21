@@ -27,11 +27,11 @@
 
 *Image of data before transformation (it is blurred to hide some personal information)*
 
-- Removed duplicates and replaced missing values with 'zeros'.
+- Replaced missing values with 'zeros' (There were no duplicate values).
 - Transformed the 'date' column to contain only day, month, and year.
 - Transformed the 'details column' by shortening the long texts through delimiter ( Data > text to column > Delimited).
 - Changed withdrawal column from negative values to positive values (using a new column, use function MAX(Cell containing number, -(negative) cell containing number)).
-- Another column was created to categorize transactions under the 'detail' column to form different categories of expenses and incomes: shopping, general expenses, black tax, withdrawal -charges, transfer charges, airtime expense, general income, m-shwari withdrawal (Ctrl H).
+- Another column was created to categorize transactions under the 'detail' column to form different categories of expenses and incomes: shopping, general expenses, black tax, withdrawal -charges, transfer charges, airtime expense, general income, and m-shwari withdrawal (Ctrl H).
 
 ![image](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/c1f919ff-84b0-4c64-9b56-5061ff7a5b06)
 
@@ -51,6 +51,8 @@
 Apart from using Excel for data cleaning and preparation, it was also used for data analysis and visualization.
 Using a pivot table, questions under exploratory data analysis (EDA) were analyzed and visualized as follows:
 - **Question 1**: What is the total income/withdrawal reported from 4th April 2024 to 5th May 2024?
+
+  The analysis below shows that income was higher than withdrawal. This is because it includes even the amount carried forward from the previous month.
 
 ![q11](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/6084735d-ec45-4440-b1b1-6efa716c15ff)
 ![q12](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/b8919238-b32f-4bbd-a7bb-9e91df246a6b)
@@ -90,8 +92,18 @@ Using a pivot table, questions under exploratory data analysis (EDA) were analyz
 - **Transfer Charges**: Amount deducted when sending money via m-pesa
 - **M-shwari**: Amount deposited in M-shwari account. This is savings but the client wanted it to appear as part of the expenses for reasons known to her.
 
-3. Cashflow based on the running totals from 4th April 2024 to 5th May 2024: There is a downward trend as shown by the trendline. This means that there is more money being withdrawn as compared to the amount earned. {NB. The amount earned was more than the amount spent as shown above (check objective 1) because there was some amount of money that was carried forward from the previous month.}
+3. Cashflow based on the running totals from 4th April 2024 to 5th May 2024: There is a downward trend as shown by the trendline. This means that there is more money being withdrawn as compared to the amount earned. {NB. The amount earned was more than the amount spent as shown above (check objective 1) because there was some amount of money that was carried forward from the previous month (Question 1).
 4. The trend of withdrawal/income from 4th April 2024 to 5th May 2024: Based on the dashboard shown above, the line graph for withdrawals and income are running interchangeably. Sometimes withdrawal is higher than income and vice versa.
 
+### Limitations
+---
+- M-pesa statement is highly sensitive because it contains personal information and also password protected
+- The project was limited to the requirements of the user.
+- Some transactions were ambiguous. They were analyzed based on the user's explanation upon inquiry.
 ### Recommendations
 ---
+- Avoid impulse buying and embrace savings.
+- Embrace bulk shopping, it will reduce the amount spent per day for shopping.
+
+**Note**. The project only displays images as shown above. Uploading datasets or Excel worksheets is restricted due to sensitive data in those files.
+

@@ -1,4 +1,4 @@
-# M-pesa-Statement-Analysis
+# M-pesa-Statement-Analysis- Excel
 ### User Story
 ---
  'I gave someone close to me my m-pesa PIN on 5th April 2024 while I was going to a one-month conference in Mumbai city. When I came back on 5th May 2024, I discovered there was a lot of money spent. Kindly let me know how my money was spent, total income and withdrawal, and cashflow based on the running totals. I will appreciate any other information beyond that'. 

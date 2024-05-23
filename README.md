@@ -79,7 +79,7 @@ Using a pivot table, questions under exploratory data analysis (EDA) were analyz
 
 ### Results/ Findings
 ---
-1. Total income/withdrawal reported from 4th April 2024 to 5th May 2024: There was a total of ksh. 68,162 and an income of ksh. 69,157. The income amount is higher than the amount spent/withdrawn during the stated period. Therefore, a total of ksh. 995. 
+1. Total income/withdrawal reported from 4th April 2024 to 5th May 2024: There was a total of ksh. 68,162 and an income of ksh. 69,157. The income amount is higher than the amount spent/withdrawn during the stated period. A total of ksh. 1213 was c/f. Therefore, a total of ksh. 995 available in the account at the end of the month but there was 218 more withdrawn as compared to the income for the month. 
 2. Expense categories based on how much was spent on each from 4th April 2024 to 5th May 2024: There were different categories of expenses and amount spent. This has been shown below in a table:
 
 ![image](https://github.com/Clifford254KE/M-pesa-Statement-Analysis/assets/140185917/f7aa64aa-26d3-422e-bff6-64632da7cd27)

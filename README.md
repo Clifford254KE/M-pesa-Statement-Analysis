@@ -43,7 +43,7 @@ The statement had date, code, details, transaction status, paid in, withdrawal a
 ---
 
 - What is the total income/withdrawal reported from 4th April 2024 to 5th May 2024?
-- What are the expense categories based on how much was spent on each from 4th April 2024 to 5th May 2024?
+- What is the total expense from 4th April 2024 to 5th May 2024?
 - What was the cashflow based on the running totals from 4th April 2024 to 5th May 2024?
 - What was the trend of withdrawal/income from 4th April 2024 to 5th May 2024?
 
